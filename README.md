@@ -25,7 +25,7 @@
 I am a final-year Computer Science & Engineering student at **Bangladesh University of Engineering and Technology (BUET)**, working at the intersection of software engineering and machine learning.
 
 - :mortar_board: **B.Sc. in CSE** from BUET (Expected June 2026)
-- :computer: **Software Development Intern** at CalcHVAC, New York (Remote)
+- :computer: **Software Development Engineer (Part Time)** at CalcHVAC, New York (Remote)
 - :satellite: **Previously Intern** at BSCL (Bangladesh Satellite Company Limited)
 - :seedling: **Thesis**: Auto Annotation of 3D QCT Images Using Deep Learning
 - :trophy: **Competitions**: CUET Datathon Finalist, Solvio AI Hackathon Qualifier, IEEE VIP Cup Participant
