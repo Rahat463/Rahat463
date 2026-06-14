@@ -94,15 +94,28 @@ I am a final-year Computer Science & Engineering student at **Bangladesh Univers
 
 ---
 
+## BUET Coursework
+
+Selected sessional coursework, each with the original specs, source, and per-assignment write-ups.
+
+| Course | Sessional | Highlights |
+|--------|-----------|------------|
+| **CSE 322** | [Computer Networks](https://github.com/Rahat463/CSE-322_Computer_Networks_Sessional) | Java HTTP file server; AODV/R-AODV & TCP variants in NS-3 |
+| **CSE 318** | [Artificial Intelligence](https://github.com/Rahat463/CSE-318_Artificial-Intelligence-Sessional) | A* n-puzzle, Mancala (α-β), TSP local search, decision trees |
+| **CSE 314** | [Operating Systems](https://github.com/Rahat463/CSE-314_Operating_System_Sessional) | xv6 syscalls, MLFQ scheduler, threading; IPC synchronization |
+| **CSE 410** | [Computer Graphics](https://github.com/Rahat463/CSE-410_Computer-Graphics-Sessional) | OpenGL, raster pipeline (Z-buffer), recursive ray tracer |
+
+---
+
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahat463&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahat463&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahat463&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&v=2" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahat463&layout=compact&theme=github_dark&hide_border=true&langs_count=8&v=2" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahat463&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahat463&theme=github-dark-blue&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
 
 ---
