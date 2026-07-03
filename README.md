@@ -27,7 +27,8 @@ I am a final-year Computer Science & Engineering student at **Bangladesh Univers
 - :mortar_board: **B.Sc. in CSE** from BUET (Expected June 2026)
 - :computer: **Software Development Engineer (Part Time)** at CalcHVAC, New York (Remote)
 - :satellite: **Previously Intern** at BSCL (Bangladesh Satellite Company Limited)
-- :seedling: **Thesis**: Auto Annotation of 3D QCT Images Using Deep Learning
+- :seedling: **Thesis**: Automated Multi-Resolution Femur Segmentation and Morphometric Analysis
+from QCT Images Using Transformer Architecture
 - :trophy: **Competitions**: CUET Datathon Finalist, Solvio AI Hackathon Qualifier, IEEE VIP Cup Participant
 
 ---
