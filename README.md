@@ -24,7 +24,7 @@
 
 I am a Computer Science & Engineering graduate from **Bangladesh University of Engineering and Technology (BUET)**, working at the intersection of software engineering and machine learning.
 - :mortar_board: **B.Sc. in CSE** from BUET (Graduated June 2026)
-- :computer: **Software Development Engineer (Part Time)** at CalcHVAC, New York (Remote)
+- :computer: **Software Development Engineer** at CalcHVAC, New York (Remote)
 - :satellite: **Previously Intern** at BSCL (Bangladesh Satellite Company Limited)
 - :seedling: **Thesis**: Automated Multi-Resolution Femur Segmentation and Morphometric Analysis
 from QCT Images Using Transformer Architecture
