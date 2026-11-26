@@ -116,7 +116,3 @@ Selected sessional coursework, each with the original specs, source, and per-ass
 </div>
 
 ---
-
-<div align="center">
-  <i>Open to collaboration on ML research, full-stack projects, and open-source contributions.</i>
-</div>
